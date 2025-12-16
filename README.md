@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Richa Patel</h1>
-<h3 align="center">A CSE middler who loves exploring new fields and empowering others</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richa120&label=Profile%20views&color=0e75b6&style=flat" alt="richa120" /> </p>
 
